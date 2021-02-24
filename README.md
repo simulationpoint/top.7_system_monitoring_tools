@@ -13,6 +13,7 @@
 ![7-sys-monitoring-tools](./src/vtop.mov)
 
 `5. bashtop`
+
 ![7-sys-monitoring-tools](./src/bashtop.mov)
 
 `6. gtop`
