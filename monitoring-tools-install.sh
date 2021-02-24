@@ -1,7 +1,7 @@
 # Top 7 system monitoring tools
 
 # run it as follows
-# sh '/path/name/7sys-monitoring-tools.sh'
+# sh '/path/name/monitoring-tools-install.sh'
 
 # 1. htop
 sudo apt install htop -y
