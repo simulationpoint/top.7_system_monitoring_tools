@@ -38,7 +38,7 @@
 > #### nmon and vtop are my favorite system monitoring tools. They offer user friendly CLI interaction.
 
 
-#### [Installation file link](https://github.com/simulationpoint/top.7_system_monitoring_tools/blob/main/7sys-monitoring-tools.sh)
+#### [Installation file link](https://github.com/simulationpoint/top.7_system_monitoring_tools/blob/main/monitoring-tools-install.sh)
 
 
 
