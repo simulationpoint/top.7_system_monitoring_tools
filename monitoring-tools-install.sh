@@ -31,7 +31,3 @@ sudo npm install -g gtop -y
 sudo apt install glances -y
 
 
-
-
-
-
